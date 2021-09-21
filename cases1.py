@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # In[14]:
 
 
-df = pd.read_csv("C:\cases.csv")
+df = pd.read_csv("cases.csv")
 
 
 # In[15]:
